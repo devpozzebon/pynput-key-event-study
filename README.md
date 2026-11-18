@@ -22,6 +22,8 @@ O autor nao se responsabiliza por uso indevido.
 - Como usar uma tecla de atalho (F9) para ligar/desligar a captura
 - Tratamento de `AttributeError` ao acessar `key.char`
 
+**Nota:** Leia o [Relatório de Defesa e Reflexão](RELATORIO_DEFESA.md) completo.
+
 ## Como executar
 
 ```bash
